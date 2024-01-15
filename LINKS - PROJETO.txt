@@ -1,0 +1,3 @@
+FIGMA: https://www.figma.com/file/F4T7CUAhVDsloAj0oy59ou/Projeto-Controle-de-Acesso---N%C3%ADvel-B%C3%A1sico?type=design&node-id=1%3A2&mode=design&t=REnt60iszw8TRWiA-1
+
+GIT: https://github.com/vidadofael/age_verification
